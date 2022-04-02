@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt="" /> </p>
 
 - ✍ I'm a student of: [Nam Can Tho University of Technology and Education](https://www.nctu.edu.vn/) (DNC).
 
