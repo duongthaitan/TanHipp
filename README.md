@@ -17,9 +17,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt="" /> </p>
 
-- ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC).
+- ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
 
-- 🌱 I’m currently learning **FullStack.** 👨‍💻💪
+- 🌱 I’m currently learning **FullStack** 👨‍💻💪
 
 
 
@@ -101,6 +101,7 @@
 <hr>
 
 #Số Khách Ghé Xem =))
+
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TanHipp&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
