@@ -27,37 +27,36 @@
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHippDVFB/" alt="Facebook">
-  <img src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
+  <img src="https://img.icons8.com/bubbles/80/000000/facebook.png"/>
   </a>
   <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F">
-  <img src="https://img.icons8.com/clouds/50/000000/cld_zalo.png"/>
+  <img src="https://img.icons8.com/clouds/80/000000/cld_zalo.png"/>
   </a>
   <a herf="https://www.tiktok.com/@d_tt03">
-  <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
+  <img src="https://img.icons8.com/bubbles/80/000000/tiktok.png"/>
   </a> 
   <a href="https://github.com/TanHipp" alt="Github">
-  <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+  <img src="https://img.icons8.com/bubbles/80/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-  <img src="https://img.icons8.com/bubbles/50/000000/youtube-squared.png"/>
+  <img src="https://img.icons8.com/bubbles/80/000000/youtube-squared.png"/>
   </a>
   <a href="matan13@gmail.com" alt="Email">
-  <img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/>
+  <img src="https://img.icons8.com/bubbles/80/000000/gmail-new.png"/>
 </p>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/stickers/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png"/>
+  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/60/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/60/000000/git.png"/>
+  <img src="https://img.icons8.com/stickers/60/000000/github.png"/>
+  <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/60/000000/visual-studio--v2.png"/>
+  <img src="https://img.icons8.com/color/60/000000/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/60/000000/adobe-lightroom--v1.png"/>
 </p>
 
 
