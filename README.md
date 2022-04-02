@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Thai Tan (TanHipp)</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Web Design and Software Developer from Vietnam </h3>
+
+<p align="center">
+  <em>
+    This is ME, Duong Thai Tan (TanHipp), I study Information technology (IT) <a href="https://www.nctu.edu.vn/"> <b>https://www.nctu.edu.vn/ Web Design and Software Development</b>, Information Technology </a>. <br>
+    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [Nam Can Tho University of Technology and Education](https://www.nctu.edu.vn/) (DNC).
