@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Duong Thai Tan <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">Web Design and Software Developer from Vietnam </h3>
+<h3 align="center">Web Design and Software Developer from Vietnam  </h3>
 
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC).
 
-- 🌱 I’m currently learning **FullStack.**
+- 🌱 I’m currently learning **FullStack.** 👨‍💻💪
 
 
 
@@ -27,22 +27,22 @@
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHippDVFB/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  <img src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
   </a>
   <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F">
-  <img src="https://img.icons8.com/color/48/000000/zalo.png"/>
+  <img src="https://img.icons8.com/clouds/50/000000/cld_zalo.png"/>
   </a>
   <a herf="https://www.tiktok.com/@d_tt03">
-  <img src="https://img.icons8.com/color/48/000000/tiktok--v1.png"/>
+  <img src="https://img.icons8.com/bubbles/50/000000/tiktok.png"/>
   </a> 
   <a href="https://github.com/TanHipp" alt="Github">
-  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-  <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <img src="https://img.icons8.com/bubbles/50/000000/youtube-squared.png"/>
   </a>
   <a href="matan13@gmail.com" alt="Email">
-  <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+  <img src="https://img.icons8.com/bubbles/50/000000/gmail-new.png"/>
 </p>
 
 
@@ -53,16 +53,17 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png"/>
 </p>
+
 
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanHipp&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="TanHipp" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=TanHipp&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TanHipp" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -81,7 +82,7 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315vn5ocyqkorpqwxvjeldw4blqa)
 
 ---
-#Phiên bản??
+#Note Cần Sửa Sau =)))
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
