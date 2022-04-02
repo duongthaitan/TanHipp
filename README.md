@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thai Tan (TanHipp)</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate developer from Vietnam </h3>
+<h3 align="center">Web Design and Software Developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [Nam Can Tho University of Technology and Education](https://www.nctu.edu.vn/) (DNC).
@@ -10,40 +10,35 @@
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/TanHippDVFB/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a>
+  <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F">
+  <img src="https://img.icons8.com/color/48/000000/zalo.png"/>
+  </a>
+  <a herf="https://www.tiktok.com/@d_tt03">
+  <img src="https://img.icons8.com/color/48/000000/tiktok--v1.png"/>
   </a> 
   <a href="https://github.com/TanHipp" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="matan13@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </p>
 
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png"/>
 </p>
 
 <table style="width:100%;">
