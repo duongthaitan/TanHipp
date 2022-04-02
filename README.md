@@ -97,7 +97,7 @@
 
 ## Thank you for visiting my profile💖
 
-![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
 
 <hr>
 
