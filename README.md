@@ -19,7 +19,7 @@
 
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
 
-- 🌱 I’m currently learning **FullStack** 👨‍💻💪
+- 🌱 I’m currently learning **Backend, Frontend, FullStack** 👨‍💻💪
 
 
 
