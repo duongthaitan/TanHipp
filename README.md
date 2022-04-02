@@ -2,6 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Web Design and Software Developer from Vietnam </h3>
 
+
 <p align="center">
   <em>
     This is ME, Duong Thai Tan (TanHipp), I study Information technology (IT) <a href="https://www.nctu.edu.vn/"> <b>https://www.nctu.edu.vn/ Web Design and Software Development</b>, Information Technology </a>. <br>
@@ -21,7 +22,8 @@
 - 🌱 I’m currently learning **FullStack.**
 
 
-## 📫 How to reach me:
+
+<h2> How to reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHippDVFB/" alt="Facebook">
@@ -43,7 +45,9 @@
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </p>
 
-## Skills:
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -74,7 +78,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315vn5ocyqkorpqwxvjeldw4blqa)
 
 ---
 
