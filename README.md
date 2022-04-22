@@ -100,6 +100,16 @@
 
 <hr>
 
+## <p align="center">Con Sờ Nách của  🐍</p>
+<p align='center'>
+<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+<hr>
+<br>
+
+##
+
 #Số Khách Ghé Xem =))
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TanHipp&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
