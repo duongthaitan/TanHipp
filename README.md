@@ -99,6 +99,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
 
 <hr>
+## <p align="center">Github Contributions 📈</p>
+<br>
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=TanHipp&theme=react-dark&hide_border=true">
+<p>
+
+<hr>
+<br>
 
 ## <p align="center">Con Sờ Nách của  🐍</p>
 <p align='center'>
