@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
+
+
 <h1 align="center">Hi, I'm Duong Thai Tan <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Web Design and Software Developer from Vietnam  </h3>
+
+
 
 
 <p align="center">
@@ -17,9 +25,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt="" /> </p>
 
+
+
+
+
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
 
 - 🌱 I’m currently learning **Backend, Frontend, FullStack** 👨‍💻💪
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
@@ -46,6 +61,7 @@
 </p>
 
 
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
@@ -58,6 +74,7 @@
   <img src="https://img.icons8.com/color/60/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/adobe-lightroom--v1.png"/>
 </p>
+
 
 
 <table style="width:100%;">
@@ -73,6 +90,9 @@
     </td>
   </tr>
 </table>
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ---
 
