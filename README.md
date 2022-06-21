@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi, I'm Duong Thai Tan <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Duong Thai Tan <img width="10px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">Web Design and Software Developer from Vietnam  </h3>
 
