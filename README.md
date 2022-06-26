@@ -31,10 +31,10 @@
 
 
 
-<h2> How to reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="0px"> </h2>
+<h2> How to reach me </h2>
 <p align="center">
   </a>
-  <a href="https://www.facebook.com/TanHippDVFB/" alt="Facebook">
+  <a href="https://www.facebook.com/TanHipp/" alt="Facebook">
   <img src="https://img.icons8.com/bubbles/80/000000/facebook.png"/>
   </a>
   <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F">
