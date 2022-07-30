@@ -59,6 +59,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
+  <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/css3.png"/>
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
