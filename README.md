@@ -25,14 +25,14 @@
 
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
 
-- 🌱 I’m currently learning **Backend, Frontend, FullStack** 👨‍💻💪
+- 🌱 I’m currently learning **Frontend** 👨‍💻💪
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
-<h2> How to reach me </h2>
+<h2> Contact For Work: </h2>
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHipp/" alt="Facebook">
@@ -60,8 +60,8 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
   <img src="https://img.icons8.com/stickers/60/000000/github.png"/>
   <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
@@ -123,7 +123,7 @@
 <hr>
 <br>
 
-## <p align="center">Con Sờ Nách của  🐍</p>
+## <p align="center">Con Rắn Của Dương Thái Tân =))</p>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
@@ -133,7 +133,7 @@
 
 ##
 
-#Số Khách Ghé Xem =))
+#Số Khách Ghé Xem
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TanHipp&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
