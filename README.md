@@ -30,7 +30,7 @@
     
 - 🌱 I’m currently learning **Frontend** 👨‍💻💪      
     
-- 🌱 I’m currently learning Web Development, Hhtml5, CSS3, JavaScript...
+- 🌱 I’m currently learning Web Development, Html5, CSS3, JavaScript...
       
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
   
@@ -172,7 +172,16 @@
 ---
 
 # Certificates:
+<br>
 
+  </a>
+  <a href="https://fullstack.edu.vn/cert/4tv2o">
+    <img alt="HTML & CSS Certificate"<img src="https://fullstack.edu.vn/images/f8-certificate.png" width="50%" height="50%"/> />
+  </a>
+  <a href="https://fullstack.edu.vn/cert/4tv2o?zarsrc=1303&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo">
+    <img alt="Information Technology Onboarding Certificate" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
+  </a>
+</p>
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
