@@ -171,15 +171,15 @@
 
 ---
 
-# Certificates|Tín chỉ:
+# Certificates|Chứng nhận:
 <br>
 <p align="center">
   </a>
   <a href="https://fullstack.edu.vn/cert/4tv2o">
-    <img alt="HTML & CSS Certificate"<img src="https://fullstack.edu.vn/images/f8-certificate.png" width="350px"/>
+    <img alt="HTML & CSS Certificate"<img src="https://scontent.fvca1-3.fna.fbcdn.net/v/t1.15752-9/309644983_1145501859389158_8164125410967455421_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=O-R5lim59uYAX9iw_RW&_nc_oc=AQnCMO88CTLeovXXzRHcYobOazJUha8J7fS45TwZQlaYyW62YyHtK00j86Ws1cLIzCU&_nc_ht=scontent.fvca1-3.fna&oh=03_AVK-OImoxQ8mQeqHYo9tmnOUPGGPQ6vsMsdwyDhTzcaE5Q&oe=63679726" width="350px"/>
   </a>
   <a href="https://fullstack.edu.vn/cert/kj7vr">
-    <img alt="Information Technology Onboarding Certificate" <img src="https://fullstack.edu.vn/images/f8-certificate.png" width="350px" />
+    <img alt="Information Technology Onboarding Certificate" <img src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.15752-9/310735690_467987811971644_3753756215406069805_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=lFWg786lqucAX_h6ZPy&_nc_ht=scontent.fvca1-2.fna&oh=03_AVJZhazXjOg3box79Ug0bs2nqdpL_vtZInCIcPSKdfagxQ&oe=63676E01" width="350px" />
   </a>
 </p>
 
