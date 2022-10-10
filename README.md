@@ -2,11 +2,15 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-
-
-
-<h1 align="center">Hi, I'm Duong Thai Tan <img width="50px"
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;Duong Thai Tan/&gt;!
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+</h1>
 <h3 align="center">Web Design and Software Developer from Vietnam  </h3>
 
 
@@ -32,7 +36,7 @@
 
 
 
-<h2> Contact For Work: </h2>
+<h2> Contact for work: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHipp/" alt="Facebook">
