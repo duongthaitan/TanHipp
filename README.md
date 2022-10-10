@@ -173,13 +173,13 @@
 
 # Certificates:
 <br>
-
+<p align="center">
   </a>
   <a href="https://fullstack.edu.vn/cert/4tv2o">
-    <img alt="HTML & CSS Certificate"<img src="https://fullstack.edu.vn/images/f8-certificate.png" width="50%" height="50%"/> />
+    <img alt="HTML & CSS Certificate"<img src="https://fullstack.edu.vn/images/f8-certificate.png" width="400px"/>
   </a>
-  <a href="https://fullstack.edu.vn/cert/4tv2o?zarsrc=1303&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo">
-    <img alt="Information Technology Onboarding Certificate" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
+  <a href="https://fullstack.edu.vn/cert/kj7vr">
+    <img alt="Information Technology Onboarding Certificate" <img src="https://fullstack.edu.vn/images/f8-certificate.png" width="400px" />
   </a>
 </p>
 
