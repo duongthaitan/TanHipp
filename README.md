@@ -36,22 +36,22 @@
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHipp/" alt="Facebook">
-  <img src="https://img.icons8.com/bubbles/80/000000/facebook.png"/>
+  <img src="https://img.icons8.com/3d-fluency/65/000000/facebook-circled.png"/>
   </a>
   <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F">
-  <img src="https://img.icons8.com/clouds/80/000000/cld_zalo.png"/>
+  <img src="https://img.icons8.com/color/65/000000/zalo.png"/>
   </a>
-  <a herf="https://www.tiktok.com/@d_tt03">
-  <img src="https://img.icons8.com/bubbles/80/000000/tiktok.png"/>
+  <a herf="https://www.tiktok.com/@tanhippit">
+  <img src="https://img.icons8.com/fluency/65/000000/tiktok.png"/>
   </a> 
   <a href="https://github.com/TanHipp" alt="Github">
-  <img src="https://img.icons8.com/bubbles/80/000000/github.png"/>
+  <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-  <img src="https://img.icons8.com/bubbles/80/000000/youtube-squared.png"/>
+  <img src="https://img.icons8.com/3d-fluency/65/000000/youtube-play.png"/>
   </a>
   <a href="matan13@gmail.com" alt="Email">
-  <img src="https://img.icons8.com/bubbles/80/000000/gmail-new.png"/>
+  <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
 </p>
 
 
