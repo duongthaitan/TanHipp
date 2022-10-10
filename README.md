@@ -6,7 +6,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;Duong Thai Tan/&gt;!
+  𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺, &lt;Duong Thai Tan/&gt;!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -26,10 +26,17 @@
 
 
 
-
+- 👋 Hi, I’m Duong Thai Tan ( TanHipp )
+    
+- 🌱 I’m currently learning **Frontend** 👨‍💻💪      
+    
+- 🌱 I’m currently learning Web Development, Hhtml5, CSS3, JavaScript...
+      
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
+  
+- 🧐 Portfolio Website: https://tanhipp.github.io/Mini_ProFile
 
-- 🌱 I’m currently learning **Frontend** 👨‍💻💪
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -42,10 +49,14 @@
   <a href="https://www.facebook.com/TanHipp/" alt="Facebook">
   <img src="https://img.icons8.com/3d-fluency/65/000000/facebook-circled.png"/>
   </a>
-  <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F">
+  <a>
+  <a href="https://www.instagram.com/tanhipp.it" alt="Instagram">
+  <img src="https://img.icons8.com/3d-fluency/65/000000/instagram-new.png"/>
+  </a>  
+  <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F" alt="Zalo">
   <img src="https://img.icons8.com/color/65/000000/zalo.png"/>
   </a>
-  <a herf="https://www.tiktok.com/@tanhippit">
+  <a herf="https://www.tiktok.com/@tanhippit" alt="Tiktok">
   <img src="https://img.icons8.com/fluency/65/000000/tiktok.png"/>
   </a> 
   <a href="https://github.com/TanHipp" alt="Github">
@@ -56,25 +67,50 @@
   </a>
   <a href="matan13@gmail.com" alt="Email">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 </p>
 
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/65/000000/html-5.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/65/000000/git.png"/>
-  <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/visual-studio.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/adobe-photoshop.png"/>
-  <img src="https://img.icons8.com/fluency/65/000000/adobe-lightroom.png"/>
-</p>
-
-
+<h4> Languages: </h4>
+<span> 
+    <p align="center">
+    <img src="https://img.icons8.com/fluency/65/000000/html-5.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
+  </p>
+</span>
+<h4> Frameworks: </h4>
+<span> 
+    <p align="center">
+    <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
+      <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
+  </p>
+</span>
+<h4> Database: </h4>    
+<span>
+   <p align="center">
+     <img src="https://img.icons8.com/fluency/65/000000/mysql-logo.png"/>
+   </p>
+</span>
+<h4>  IDE: </h4>    
+<span>
+   <p align="center">
+    <img src="https://img.icons8.com/fluency/65/000000/visual-studio.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/sublime-text.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/adobe-photoshop.png"/>
+    <img src="https://img.icons8.com/fluency/65/000000/adobe-lightroom.png"/>
+   </p>
+</span>
+<h4> Tools: </h4>
+   <p align="center">
+     <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
+     <img src="https://img.icons8.com/color/65/000000/git.png"/>
+   </p>
+</span>
 
 <table style="width:100%;">
   <tr>
@@ -89,6 +125,38 @@
     </td>
   </tr>
 </table>
+    <br>
+    Here are some [🦜parrots]:
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+
+<hr>
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
