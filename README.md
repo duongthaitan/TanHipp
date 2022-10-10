@@ -172,7 +172,7 @@
 ---
 
 # Certificates|Chứng nhận:
-    
+ 
 <h4> WEB DESIGN DEVELOPER by F8: </h4>
 <br>
 <p align="center">
@@ -182,6 +182,11 @@
   </a>
   <a href="https://fullstack.edu.vn/cert/kj7vr">
     <img alt="Information Technology Onboarding Certificate" <img src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.15752-9/310735690_467987811971644_3753756215406069805_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=lFWg786lqucAX_h6ZPy&_nc_ht=scontent.fvca1-2.fna&oh=03_AVJZhazXjOg3box79Ug0bs2nqdpL_vtZInCIcPSKdfagxQ&oe=63676E01" width="350px" />
+  </a>
+  <p align="center">
+  </a>
+  <a href="https://fullstack.edu.vn/cert/d0gj4">
+    <img alt="JavaScript Basic"<img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.15752-9/305534037_1107160906577738_4976146372824333216_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbtZiGpCQr0AX_hvDcs&_nc_ht=scontent.fvca1-1.fna&oh=03_AVKRQcqtlex8vZTs-7Y0AVslSNgvRSwAqWHPaylLwU8XDw&oe=636AE5A9" width="707px"/>
   </a>
 </p>
 
