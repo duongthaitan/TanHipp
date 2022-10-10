@@ -59,15 +59,15 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/60/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/60/000000/git.png"/>
-  <img src="https://img.icons8.com/stickers/60/000000/github.png"/>
-  <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/60/000000/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/color/60/000000/adobe-photoshop--v1.png"/>
-  <img src="https://img.icons8.com/color/60/000000/adobe-lightroom--v1.png"/>
+  <img src="https://img.icons8.com/fluency/65/000000/html-5.png"/>
+  <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
+  <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/65/000000/git.png"/>
+  <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
+  <img src="https://img.icons8.com/fluency/65/000000/visual-studio.png"/>
+  <img src="https://img.icons8.com/fluency/65/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/fluency/65/000000/adobe-photoshop.png"/>
+  <img src="https://img.icons8.com/fluency/65/000000/adobe-lightroom.png"/>
 </p>
 
 
