@@ -176,10 +176,10 @@
 <p align="center">
   </a>
   <a href="https://fullstack.edu.vn/cert/4tv2o">
-    <img alt="HTML & CSS Certificate"<img src="https://fullstack.edu.vn/images/f8-certificate.png" width="400px"/>
+    <img alt="HTML & CSS Certificate"<img src="https://fullstack.edu.vn/images/f8-certificate.png" width="350px"/>
   </a>
   <a href="https://fullstack.edu.vn/cert/kj7vr">
-    <img alt="Information Technology Onboarding Certificate" <img src="https://fullstack.edu.vn/images/f8-certificate.png" width="400px" />
+    <img alt="Information Technology Onboarding Certificate" <img src="https://fullstack.edu.vn/images/f8-certificate.png" width="350px" />
   </a>
 </p>
 
