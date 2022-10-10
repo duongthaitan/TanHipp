@@ -43,7 +43,7 @@
 
 
 
-<h2> Contact for work: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
+<h2> Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHipp/" alt="Facebook">
@@ -73,8 +73,8 @@
 
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<h4> Languages: </h4>
+<h2> Skills|Kĩ năng: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h4> Languages|Ngôn ngữ: </h4>
 <span> 
     <p align="center">
     <img src="https://img.icons8.com/fluency/65/000000/html-5.png"/>
@@ -82,20 +82,20 @@
     <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
   </p>
 </span>
-<h4> Frameworks: </h4>
+<h4> Frameworks|Khuôn khổ: </h4>
 <span> 
     <p align="center">
     <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
       <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
   </p>
 </span>
-<h4> Database: </h4>    
+<h4> Database|Cơ sở dữ liệu: </h4>    
 <span>
    <p align="center">
      <img src="https://img.icons8.com/fluency/65/000000/mysql-logo.png"/>
    </p>
 </span>
-<h4>  IDE: </h4>    
+<h4>  IDE|Môi trường: </h4>    
 <span>
    <p align="center">
     <img src="https://img.icons8.com/fluency/65/000000/visual-studio.png"/>
@@ -105,7 +105,7 @@
     <img src="https://img.icons8.com/fluency/65/000000/adobe-lightroom.png"/>
    </p>
 </span>
-<h4> Tools: </h4>
+<h4> Tools|Mẹo: </h4>
    <p align="center">
      <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
      <img src="https://img.icons8.com/color/65/000000/git.png"/>
@@ -165,13 +165,13 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+### Spotify Playing| Âm nhạc 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315vn5ocyqkorpqwxvjeldw4blqa)
 
 ---
 
-# Certificates:
+# Certificates| Tín chỉ:
 <br>
 <p align="center">
   </a>
