@@ -165,7 +165,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing|Âm nhạc 🎧
+Spotify Playing|Âm nhạc 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/315vn5ocyqkorpqwxvjeldw4blqa)
 
@@ -191,18 +191,15 @@
 </p>
 
 ---
+<br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
 
 ---
 
-<hr>
 
-## Thank you for visiting my profile💖
-
-![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
 
 <hr>
-## <p align="center">Github Contributions 📈</p>
+<p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=TanHipp&theme=react-dark&hide_border=true">
@@ -221,9 +218,9 @@
 
 ##
 
-#Số Khách Ghé Xem
+<hr>
+Thank you for visiting my profile💖
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TanHipp&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
+![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
 
 </p>
