@@ -183,15 +183,10 @@ Spotify Playing|Âm nhạc 🎧
   </a>
 </p>
 
----
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
 
----
 
-
-
-<hr>
 <p align="center">Github Contributions 📈</p>
 <br>
 <p align='center'>
