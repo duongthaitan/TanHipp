@@ -208,7 +208,7 @@ Spotify Playing|Âm nhạc 🎧
 ##
 
 <hr>
-Thank you for visiting my profile💖
+Số lượt xem 💖
 
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
 
