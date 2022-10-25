@@ -181,7 +181,7 @@ Spotify Playing|Âm nhạc 🎧
   <p align="center">
   </a>
   <a href="https://fullstack.edu.vn/cert/d0gj4">
-    <img alt="JavaScript Basic"<img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.15752-9/305534037_1107160906577738_4976146372824333216_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbtZiGpCQr0AX_hvDcs&_nc_ht=scontent.fvca1-1.fna&oh=03_AVKRQcqtlex8vZTs-7Y0AVslSNgvRSwAqWHPaylLwU8XDw&oe=636AE5A9" width="600px"/>
+    <img alt="JavaScript Basic"<img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.15752-9/305534037_1107160906577738_4976146372824333216_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbtZiGpCQr0AX_hvDcs&_nc_ht=scontent.fvca1-1.fna&oh=03_AVKRQcqtlex8vZTs-7Y0AVslSNgvRSwAqWHPaylLwU8XDw&oe=636AE5A9" width="500px"/>
   </a>
 </p>
 <br>
