@@ -109,7 +109,8 @@
      <img src="https://img.icons8.com/color/65/000000/git.png"/>
    </p>
 </span>
-
+<hr>
+<br>
 <table style="width:100%;">
   <tr>
     <td>
@@ -117,9 +118,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=TanHipp&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TanHipp" width="100%"/>
     </td>
     <td>
-      <hr>
+      <br>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="50%"/>
       </p>
     </td>
   </tr>
@@ -180,15 +181,12 @@ Spotify Playing|Âm nhạc 🎧
   <p align="center">
   </a>
   <a href="https://fullstack.edu.vn/cert/d0gj4">
-    <img alt="JavaScript Basic"<img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.15752-9/305534037_1107160906577738_4976146372824333216_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbtZiGpCQr0AX_hvDcs&_nc_ht=scontent.fvca1-1.fna&oh=03_AVKRQcqtlex8vZTs-7Y0AVslSNgvRSwAqWHPaylLwU8XDw&oe=636AE5A9" width="500px"/>
+    <img alt="JavaScript Basic"<img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.15752-9/305534037_1107160906577738_4976146372824333216_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbtZiGpCQr0AX_hvDcs&_nc_ht=scontent.fvca1-1.fna&oh=03_AVKRQcqtlex8vZTs-7Y0AVslSNgvRSwAqWHPaylLwU8XDw&oe=636AE5A9" width="600px"/>
   </a>
 </p>
-
+<br>
 <hr>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
-
-
-<p align="center">Github Contributions 📈</p>
+<p align="center">Github Contributions | Thời gian hoạt động trên Github 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=TanHipp&theme=react-dark&hide_border=true">
@@ -204,10 +202,13 @@ Spotify Playing|Âm nhạc 🎧
 
 <hr>
 <br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
 
-##
 
-<hr>
+<br>
+<br>
+<br>
+<br>
 Số lượt xem 💖
 
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
