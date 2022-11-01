@@ -19,10 +19,11 @@
 <p align="center">
   <em>
     This is ME, Duong Thai Tan (TanHipp), I study Information technology (IT) <a href="https://www.nctu.edu.vn/"> <b>https://www.nctu.edu.vn/ Web Design and Software Development</b>, Information Technology </a>. <br>
-    A budding <b>Full-Stack Developer</b> and a <b>Competitive Programming Enthusiast
+    A budding <b>Fontend | UI & UX Developer</b> and a <b>Competitive Programming Enthusiast
   Learning while HOPING & HUSTLING!!!
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="https://github.com/TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt=""/></p>
+ <br>
 
 
 
@@ -35,7 +36,7 @@
       
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
   
-- 🧐 Portfolio Website: https://tanhipp.github.io/Mini_ProFile
+- 🧐 Portfolio Website: https://tanhipp.github.io/IT_TanHipp
 
 
 <hr>
@@ -209,7 +210,7 @@ Spotify Playing|Âm nhạc 🎧
 <br>
 <br>
 <br>
-Số lượt xem 💖
+SỐ LƯỢT TRUY CẬP TRANG💖
 
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
 
