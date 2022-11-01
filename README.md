@@ -45,14 +45,14 @@
 <h2> Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
 <p align="center">
   </a>
-  <a href="https://www.facebook.com/TanHipp/" alt="Facebook">
+  <a href="https://www.facebook.com/TanHipp/" target="_blank" alt="Facebook">
   <img src="https://img.icons8.com/3d-fluency/65/000000/facebook-circled.png"/>
   </a>
   <a>
-  <a href="https://www.instagram.com/tanhipp.it" alt="Instagram">
+  <a href="https://www.instagram.com/tanhipp.it"  target="_blank" alt="Instagram">
   <img src="https://img.icons8.com/3d-fluency/65/000000/instagram-new.png"/>
   </a>  
-  <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F" alt="Zalo">
+  <a href="https://id.zalo.me/account?continue=https%3A%2F%2Fchat.zalo.me%2F"  target="_blank" alt="Zalo">
   <img src="https://img.icons8.com/color/65/000000/zalo.png"/>
   </a>
   <a herf="https://www.tiktok.com/@tanhippit" alt="Tiktok">
