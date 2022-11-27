@@ -116,9 +116,9 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanHipp&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="TanHipp" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=TanHipp&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TanHipp" width="100%"/>
-    </td>
+      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanHipp&theme=swift&hide_border=false" width="100%" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanHipp&theme=swift&hide_border=false&include_all_commits=false&count_private=true" width="100%" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanHipp&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="100%" /></p>
     <td>
       <br>
       <p align="center"> 
@@ -127,6 +127,9 @@
     </td>
   </tr>
 </table>
+<p>&nbsp;<img align="center" src="https://github-trophies.vercel.app/?username=TanHipp&theme=flat&no-frame=true&no-bg=false&margin-w=4" width="100%" /</p>
+
+    
 
 
 <hr>    
