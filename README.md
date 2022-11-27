@@ -213,7 +213,14 @@ Spotify Playing|Âm nhạc 🎧
 <br>
 <br>
 <br>
+✍️Random Dev Quote | Ngẫu Nhiên Trích Đoạn Của Lập Trình Viên
 <br>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="40%" height="30%" /></p>
+<br>
+<br>
+
 SỐ LƯỢT TRUY CẬP TRANG💖
 
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
