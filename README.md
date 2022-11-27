@@ -16,6 +16,7 @@
 
 
 
+
 <p align="center">
   <em>
     This is ME, Duong Thai Tan (TanHipp), I study Information technology (IT) <a href="https://www.nctu.edu.vn/"> <b>https://www.nctu.edu.vn/ Web Design and Software Development</b>, Information Technology </a>. <br>
@@ -121,7 +122,7 @@
     <td>
       <br>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="50%"/>
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
