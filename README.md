@@ -8,9 +8,11 @@
   </a>
   𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺, &lt;Duong Thai Tan/&gt;!
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="35px" />
+    <!-- RAINBOW LINE TOP -->
+    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 </h1>
 <h3 align="center">Web Design and Software Developer from Vietnam  </h3>
 
@@ -77,22 +79,25 @@
 <h4> Languages|Ngôn ngữ: </h4>
 <span> 
     <p align="center">
-    <img src="https://img.icons8.com/fluency/65/000000/html-5.png"/>
-    <img src="https://img.icons8.com/fluency/65/000000/css3.png"/>
-    <img src="https://img.icons8.com/fluency/65/000000/javascript.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>  
   </p>
 </span>
+    
 <h4> Frameworks|Khuôn khổ: </h4>
 <span> 
     <p align="center">
-    <img src="https://img.icons8.com/color/65/000000/react-native.png"/>
-      <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="65" height="65"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="65"/>
   </p>
 </span>
+    
 <h4> Database|Cơ sở dữ liệu: </h4>    
 <span>
    <p align="center">
-     <img src="https://img.icons8.com/fluency/65/000000/mysql-logo.png"/>
+     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="65" height="65"/>
    </p>
 </span>
 <h4>  IDE|Môi trường: </h4>    
@@ -226,3 +231,5 @@ SỐ LƯỢT TRUY CẬP TRANG💖
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
 
 </p>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
