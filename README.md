@@ -42,8 +42,6 @@
 - 🧐 Portfolio Website: https://tanhipp.github.io/IT_TanHipp
 
 
-<hr>
-
 
 <h2> Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
 <p align="center">
@@ -116,7 +114,6 @@
      <img src="https://img.icons8.com/color/65/000000/git.png"/>
    </p>
 </span>
-<hr>
 <br>
 <table style="width:100%;">
   <tr>
@@ -202,7 +199,6 @@ Spotify Playing|Âm nhạc 🎧
 <img src="https://activity-graph.herokuapp.com/graph?username=TanHipp&theme=react-dark&hide_border=true">
 <p>
 
-<hr>
 <br>
 
 ## <p align="center">Con Rắn Của Dương Thái Tân =))</p>
@@ -210,9 +206,6 @@ Spotify Playing|Âm nhạc 🎧
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-<hr>
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
 
 
 <br>
@@ -221,15 +214,16 @@ Spotify Playing|Âm nhạc 🎧
 ✍️Random Dev Quote | Ngẫu Nhiên Trích Đoạn Của Lập Trình Viên
 <br>
 <br>
-<br>
-<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="40%" height="30%" /></p>
+<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="90%" height="90%" /></p>
 <br>
 <br>
 
 SỐ LƯỢT TRUY CẬP TRANG💖
 
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
-
+<br>
+<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/TanHipp">reach out</a> and introduce yourself and don’t just say hi, tell me about yourself</b> 💜</em>
 </p>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
