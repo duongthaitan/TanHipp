@@ -200,8 +200,7 @@ Spotify Playing|Âm nhạc 🎧
 <p>
 
 <br>
-
-## <p align="center">Con Rắn Của Dương Thái Tân =))</p>
+<p align="center">Con Rắn Của Dương Thái Tân =))</p>
 <p align='center'>
 <img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
 </p>
