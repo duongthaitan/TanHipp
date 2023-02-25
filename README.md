@@ -28,7 +28,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="https://github.com/TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt=""/></p>
  <br>
 
-<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 - 👋 Hi, I’m Duong Thai Tan ( TanHipp )
