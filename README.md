@@ -28,7 +28,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TanHipp" alt="https://github.com/TanHipp" /> <img src="https://badges.pufler.dev/repos/TanHipp" alt=""/></p>
  <br>
 
-
+<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 - 👋 Hi, I’m Duong Thai Tan ( TanHipp )
@@ -40,10 +40,14 @@
 - ✍ I'm a student of: [Nam Can Tho University ](https://www.nctu.edu.vn/) (DNC)
   
 - 🧐 Portfolio Website: https://tanhipp.github.io/IT_TanHipp
+    
+    
+ 
 
 
 
-<h2> Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+ Contact for work| Liên hệ công việc: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px"> </h2>
 <p align="center">
   </a>
   <a href="https://www.facebook.com/TanHipp/" target="_blank" alt="Facebook">
@@ -73,8 +77,10 @@
 
 
 
-<h2> Skills|Kĩ năng: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<h4> Languages|Ngôn ngữ: </h4>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  Skills|Kĩ năng: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h4> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  Languages|Ngôn ngữ: </h4>
 <span> 
     <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -84,7 +90,8 @@
   </p>
 </span>
     
-<h4> Frameworks|Khuôn khổ: </h4>
+<h4> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  Frameworks|Khuôn khổ: </h4>
 <span> 
     <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="65" height="65"/>
@@ -92,13 +99,15 @@
   </p>
 </span>
     
-<h4> Database|Cơ sở dữ liệu: </h4>    
+<h4> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  Database|Cơ sở dữ liệu: </h4>    
 <span>
    <p align="center">
      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="65" height="65"/>
    </p>
 </span>
-<h4>  IDE|Môi trường: </h4>    
+<h4> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  IDE|Môi trường: </h4>    
 <span>
    <p align="center">
     <img src="https://img.icons8.com/fluency/65/000000/visual-studio.png"/>
@@ -108,7 +117,8 @@
     <img src="https://img.icons8.com/fluency/65/000000/adobe-lightroom.png"/>
    </p>
 </span>
-<h4> Tools|Mẹo: </h4>
+<h4> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  Tools|Mẹo: </h4>
    <p align="center">
      <img src="https://img.icons8.com/3d-fluency/65/000000/github.png"/>
      <img src="https://img.icons8.com/color/65/000000/git.png"/>
@@ -134,9 +144,8 @@
     
 
 
-<hr>    
-    Here are some [🦜parrots]:
-    
+<hr> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;    
+    Here are some [🦜parrots]: 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -173,9 +182,10 @@ Spotify Playing|Âm nhạc 🎧
 
 ---
 
-# Certificates|Chứng nhận:
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;#Certificates|Chứng nhận:
  
-<h4> WEB DESIGN DEVELOPER by F8: </h4>
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+  WEB DESIGN DEVELOPER by F8: </h4>
 <br>
 <p align="center">
   </a>
@@ -210,6 +220,7 @@ Spotify Playing|Âm nhạc 🎧
 <br>
 <br>
 <br>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 ✍️Random Dev Quote | Ngẫu Nhiên Trích Đoạn Của Lập Trình Viên
 <br>
 <br>
@@ -217,6 +228,7 @@ Spotify Playing|Âm nhạc 🎧
 <br>
 <br>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 SỐ LƯỢT TRUY CẬP TRANG💖
 
 ![Visitor Count](https://profile-counter.glitch.me/TanHipp/count.svg)
