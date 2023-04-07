@@ -200,7 +200,7 @@ Spotify Playing|Âm nhạc 🎧
  
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;#Certificates|Chứng nhận    
 <p>   
-  <a href="https://www.sololearn.com/certificates/CT-11PGKZIX"><img src="https://api2.sololearn.com/v2/certificates/CT-11PGKZIX/image/png" width="200px";   alt="PHP Introduction Courses">
+  <a href="https://www.sololearn.com/certificates/CT-11PGKZIX"><img src="https://api2.sololearn.com/v2/certificates/CT-11PGKZIX/image/png" width="250px";   alt="PHP Introduction Courses">
   </a>  
  </p>
 
