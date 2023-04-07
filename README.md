@@ -1,4 +1,12 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -182,29 +190,19 @@ Spotify Playing|Âm nhạc 🎧
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;#Certificates|Chứng nhận:
- 
-<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-  WEB DESIGN DEVELOPER by F8: </h4>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;#Certificates|Chứng nhận
 <br>
-<p align="center">
-  </a>
-  <a href="https://fullstack.edu.vn/cert/4tv2o">
-    <img alt="HTML & CSS Certificate"<img src=" https://scontent.fvca1-4.fna.fbcdn.net/v/t39.30808-6/339982699_770970641085804_2873194420041916468_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=C-FxRbY6-PEAX92bKEY&_nc_ht=scontent.fvca1-4.fna&oh=00_AfBrLhW5en1rXDRJ-kZqtQbCBKJ8Bx1Aa4AWp0N1WTK_QA&oe=6434454D " width="500px"/>
-  </a>
-  <a href="https://fullstack.edu.vn/cert/kj7vr">
-    <img alt="Information Technology Onboarding Certificate" <img src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.15752-9/310735690_467987811971644_3753756215406069805_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=lFWg786lqucAX_h6ZPy&_nc_ht=scontent.fvca1-2.fna&oh=03_AVJZhazXjOg3box79Ug0bs2nqdpL_vtZInCIcPSKdfagxQ&oe=63676E01" width="500px" />
-  </a>
-  <p align="center">
-  </a>
-  <a href="https://fullstack.edu.vn/cert/d0gj4">
-    <img alt="JavaScript Basic"<img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.15752-9/305534037_1107160906577738_4976146372824333216_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gbtZiGpCQr0AX_hvDcs&_nc_ht=scontent.fvca1-1.fna&oh=03_AVKRQcqtlex8vZTs-7Y0AVslSNgvRSwAqWHPaylLwU8XDw&oe=636AE5A9" width="500px"/>
-  </a>
-   </a>
-  <a href="https://www.sololearn.com/certificates/CT-11PGKZIX">
-    <img alt="PHP Introduction Courses"<img src="https://api2.sololearn.com/v2/certificates/CT-11PGKZIX/image/png" width="250px"/>
-  </a>
+<p>
+  <a href="https://fullstack.edu.vn/cert/4tv2o"><img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.15752-9/339905638_1659748734541324_1626939098417181753_n.png?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=r8_ipXuON68AX8xQ4lB&_nc_ht=scontent.fvca1-1.fna&oh=03_AdTxxTrFCVMichtm9gCecl0N3oSBJMIl6pDrx3shxNnX7g&oe=6457604A" width="332px"; alt="F8 | Information Technology Onboarding"></a>
+  <a href="https://fullstack.edu.vn/cert/kj7vr"><img src="https://scontent.fvca1-3.fna.fbcdn.net/v/t1.15752-9/340094593_182277984198931_5337890316984592241_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=hLPsnXYWOw4AX-ty3lQ&_nc_ht=scontent.fvca1-3.fna&oh=03_AdRy5EtyjLYra2zqFiqF8pg9zntMWDgE5etIKiJy9CAirQ&oe=64572EB8" width="332px"; alt="PHP Introduction Courses"></a>
+  <a href="https://fullstack.edu.vn/cert/d0gj4"><img src="https://scontent.fvca1-2.fna.fbcdn.net/v/t1.15752-9/340065544_1358214571412576_2654490619853548336_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=VehUGFoDkr4AX_Mdru9&_nc_ht=scontent.fvca1-2.fna&oh=03_AdS2uaSoUG-7Cwp-tocIpTzB69SsRHfY6KoxxnkM8fvMPw&oe=645743EF" width="332px"; alt="JavaScript Basic"></a>
 </p>
+ 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;#Certificates|Chứng nhận    
+<p>   
+    <a href="https://www.sololearn.com/certificates/CT-11PGKZIX"><img src="https://api2.sololearn.com/v2/certificates/CT-11PGKZIX/image/png" width="332px"; alt="PHP Introduction Courses"></a>  
+ </p>
+
 <br>
 <hr>
 <p align="center">Github Contributions | Thời gian hoạt động trên Github 📈</p>
@@ -242,3 +240,6 @@ SỐ LƯỢT TRUY CẬP TRANG💖
 </p>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+</body>
+</html>
