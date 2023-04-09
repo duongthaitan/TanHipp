@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>  
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="60" height="60"/>
+    <img src="https://img.icons8.com/officel/60/null/php-logo.png" alt="php" width="60" height="60"/>
       
   </p>
 </span>
