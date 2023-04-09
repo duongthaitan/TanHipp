@@ -80,7 +80,7 @@
   <a href="matan13@gmail.com" alt="Email">
   <img src="https://img.icons8.com/3d-fluency/65/000000/gmail.png"/>
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%"> -->
 </p>
 
 
@@ -95,6 +95,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>  
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="php" width="60" height="60"/>
+      
   </p>
 </span>
     
